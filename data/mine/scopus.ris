@@ -1,0 +1,213 @@
+﻿TY  - JOUR
+AU  - Flemming, G.
+TI  - Problems and results of the calculation of smoke emissions.
+PY  - 1977
+T2  - WISS. A. TECH. UNIV. DRESDEN
+VL  - 26
+IS  - 6 , 1977
+SP  - 1139
+EP  - 1140
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0017443242&partnerID=40&md5=511a6a7a64900018360ac3e35e9c5653
+AB  - A brief survey is provided of the scope of the work on atmospheric pollution performed during the last 15 years at Dresden Technical University . with special reference to the effects of smoke emissions from the industrial areas and large powerstations of East Germany , on the forested areas, particularly those around Cottbus and other districts where smoke damage has been apparent. Emphasis has been on the mathematical modelling of the sources and distribution pollutants, including the effect of chimney heights on the distance from the source of the zone of maximum concentration. In addition studies of the geographical distribution of atmospheric sulphurdioxide have been performed and the mapping of sulphurdioxide levels for the whole country has been proposed. Other studies have been concerned with the effect of intervening woodland on the spread of smoke from the industrial area of North Bohemia towards the Erzgebirge mountain range. (B.D.H.)
+KW  - Air
+KW  - atmosphere
+KW  - Democratic Republic of Germany
+KW  - Diffusion
+KW  - Dispersion
+KW  - Germany
+KW  - Pollution
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Benarie, M.M.
+TI  - Empirical dosage-distance relationships around a point source-at ground level
+PY  - 1976
+T2  - Atmospheric Environment (1967)
+VL  - 10
+IS  - 2
+SP  - 163
+EP  - 166
+DO  - 10.1016/0004-6981(76)90235-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0347028232&doi=10.1016%2f0004-6981%2876%2990235-3&partnerID=40&md5=955e4e841a1a703ce72eb0904b3fe86e
+AB  - To compute pollutant dosage (i.e. the product of the concentration by exposure time), first the concentration is evaluated as a function of distance, wind and stability parameters, etc. Then, concentration is averaged over the fluctuating plume. This second step also involves some theory and some more assumptions about atmospheric properties. This paper shows, that the published literature contains a body of information which permits one to relate empirically the dosage around a ground level point source to the distance, in an elementary way. Fragmentary observations were linked by a general formula, spanning the distance from tens of m to tens of km. Moreover, this empirical approach shows that wind velocity from near calm to tens of m s-1, the presence or absence of obstacles and of terrain roughness and even sampling duration (between 15 and 60 min) play no noticeable role. Only two stability conditions (day and night) cover all possible cases. The absence of all theory from this approach must especially be stressed: it might even be said, that the obvious pragmatical evidence supersedes many a complex theory. The two simple formulae, D (dosage, normalized to unit emission) = 7.3 x-2 (day)D = 25 x-2 (night), where x is the downwind distance (m), seem to cover all possible cases. © 1976.
+KW  - Aerodynamics
+KW  - Air pollution
+KW  - ATMOSPHERE
+KW  - CALCULATION
+KW  - CONCENTRATION
+KW  - DOSAGE
+KW  - ELEVATED LINE SOURCE
+KW  - GROUND LEVEL POINT SOURCES
+KW  - PLUMES
+KW  - POLLUTANTS
+KW  - ENVIRONMENTAL PROTECTION
+KW  - WIND EFFECTS
+KW  - methodology
+KW  - plume
+KW  - point source
+KW  - AIR POLLUTION
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Bronkhuijzen, A.G.
+TI  - Computation programme for combatting air pollution (Dutch)
+PY  - 1975
+T2  - NOODZAAK
+VL  - 24
+IS  - 1
+SP  - 13
+EP  - 15
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0016442235&partnerID=40&md5=9ab0bf194370feba11dbaa80dfba5bb0
+AB  - In 1967, Shell Nederland Refinery began to develop a computation program which could describe the air pollution situation in the Rhine delta with respect to many sources of pollution. For a given discharge of pollutants from differing sources, and with known meteorological information, it is possible to compute the ground concentrations (immission) of these pollutants. The whole process, from discharge of pollutants (emission) via dispersion to ground concentration, is referred to as transmission. The model is set up so that both sources of pollution and parameters describing dispersion may be varied. Application of the model is therefore not limited to certain areas or climates. The model is used in the southwest part of South Holland, in an area with a variety of pollutant sources. Four pollutants are studied: sulfur oxides, nitrogen oxides, hydrocarbons, and carbon monoxide. Emissions are divided into those of natural origin and those of human origin. The latter include heavy industry, motor vehicles, small industries and heating, and in this area especially, the cheese industry and the shipping in the world's largest port. The computer model describes an area between ground level, and the lowest atmospheric inversion layer, and reckons spread of pollutants by means of the gaussian dispersion model. The transmission model can be used to compute ground concentrations averaged over a period of time. Resulting isoconcentration lines may be projected on a map of the area to produce a 'pollution chart'. The model may also compute the contribution of various immissions to a known emission. Frequency distribution at a given point over a period of time may also be computed. This gives the possibility to predict the effect of a proposed factory or similar emission source, and the effectiveness of proposed antipollutant measures. Some limitations of the model involve reactions to rapid wind changes, limitation of the area covered by the model, and 'blind spots' around emission sources.
+KW  - environmental health
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Iverach, D.
+AU  - Mongan, T.R.
+AU  - Nielsen, N.J.
+AU  - Formby, J.R.
+TI  - Vehicle Related Air Pollution in Sydney
+PY  - 1976
+T2  - Journal of the Air Pollution Control Association
+VL  - 26
+IS  - 1
+SP  - 39
+EP  - 44
+DO  - 10.1080/00022470.1976.10470218
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0016910790&doi=10.1080%2f00022470.1976.10470218&partnerID=40&md5=7fdafa5e0e58adf0de5d03c7762b1ada
+AB  - The techniques developed to estimate the impact of alternative transportation systems on the air quality of the Sydney Region are discussed. These techniques are centered around the development of a vehicle emissions inventory and a simplified diffusion model of the type proposed by Hanna. The use of these techniques is demonstrated by applying them, in conjunction with emission data on stationary sources, to estimate present pollutant concentrations in Sydney. The results show that both motor vehicles and industry are important emitters of nonmethane hydrocarbons and oxides of nitrogen, the precursors to the formation of oxidants. The enforcement of standards requiring emission reductions similar to the 1973 U.S. motor vehicle standards will go some way toward alleviating Sydney’s oxidant problem. However, more stringent standards will be required to reduce ambient oxidant concentrations to the World Health Organization’s long term goal of 0.06 ppm. © 1976 Air & Waste Management Association.
+KW  - Air Pollution
+KW  - Australia
+KW  - Vehicle Emissions
+KW  - AUTOMOBILE ENGINES - Exhaust Gases
+KW  - ENVIRONMENTAL PROTECTION
+KW  - HYDROCARBONS
+KW  - hydrocarbon
+KW  - nitrogen oxide
+KW  - methodology
+KW  - AIR POLLUTION
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Jernigan, E.L.
+AU  - Ray, B.J.
+AU  - Duce, R.A.
+TI  - Lead and bromine in atmospheric particulate matter on Oahu, Hawaii
+PY  - 1971
+T2  - Atmospheric Environment (1967)
+VL  - 5
+IS  - 10
+SP  - 881
+EP  - 886
+DO  - 10.1016/0004-6981(71)90017-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0015131028&doi=10.1016%2f0004-6981%2871%2990017-5&partnerID=40&md5=2bcd7f613cca297cc6b7c5c14f2452de
+AB  - Atmospheric particulate lead and bromine concentrations have been determined for samples collected in and around urban Honolulu, Hawaii. The samples were collected during periods of tradewind weather which should cause a maximum dispersion of pollutants. The average urban curbside concentrations of lead and bromine were 7.7 μg m-3 and 1.60 μg m-3 respectively, similar to or higher than concentrations reported for mainland cities. The coefficient of correlation between the bromine and lead concentrations was 0.97, suggesting a common source for both pollutants. Although the most probable source is automobiles, the Br Pb ratio for urban curbside samples was 0.22 ± 0.04, lower than the ethyl fluid ratio of 0.39. This may indicate that bromine is lost from the particles after emission to the atmosphere. The constancy of the ratio, compared to previous studies, is probably a result of the persistent meteorological conditions during tradewind periods. © 1971.
+KW  - Air Pollution
+KW  - Bromine
+KW  - Hawaii
+KW  - Lead
+KW  - Sampling Studies
+KW  - Vehicle Emissions
+KW  - Weather
+KW  - bromine
+KW  - lead
+KW  - air pollution
+KW  - article
+KW  - epidemiology
+KW  - exhaust gas
+KW  - United States
+KW  - weather
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Deuber, A.
+AU  - Meier, M.
+AU  - Satish, J.
+TI  - Spatial distribution of motor exhaust gases in relation to the presence of buildings
+ST  - DIE RAUMLICHE VERTEILUNG VON MOTORFAHRZEUGABGASEN IN SITUATIONEN UNTERSCHIEDLICHER BEBAUUNG
+PY  - 1977
+T2  - WASSER ENERGIE LUFT
+VL  - 69
+IS  - 3
+SP  - 31
+EP  - 38
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0017328576&partnerID=40&md5=8a17c69ad56355564921a2120aef476a
+AB  - More is known about noise levels around busy traffic intersections than about the exhaust gas pollution around the same areas. To study type and quantity of exhaust gas components, different urban areas were singled out for testing. Concentrations of gaseous pollutants were studied as a function of the following factors: type of building in the area; distance from the emission source; height and structure of neighbouring obstacles; traffic density; and atmospheric conditions. Six components were measured: CO; NO; NO2; non methane hydrocarbons; SO2; and CH2O. Measuring techniques used for each are described. Atmospheric parameters collected included wind speed, temperature and relative humidity. Results are reported in tables. Highest immission levels were found in narrow streets (even in smaller villages); here maximum levels permitted were sometimes exceeded. (15 references)
+KW  - carbon monoxide
+KW  - formaldehyde
+KW  - nitrogen oxide
+KW  - sulfur dioxide
+KW  - exhaust gas
+KW  - methodology
+KW  - statistics
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Roberts, J.J.
+AU  - Tamplin, S.A.
+AU  - Melvin, G.L.
+TI  - Regulation of indirect sources
+PY  - 1975
+T2  - Journal of the Air Pollution Control Association
+VL  - 25
+IS  - 3
+SP  - 237
+EP  - 242
+DO  - 10.1080/00022470.1975.10470078
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0016671012&doi=10.1080%2f00022470.1975.10470078&partnerID=40&md5=4ec769c445bcdf465ec2de43681a396f
+AB  - The Division of Air Pollution Control, Illinois Environmental Protection Agency, has conducted an ambient air quality monitoring project focusing on carbon monoxide levels in and around several indirect sources. An analysis of the data indicates that highway-type pollutant emissions have the greatest impact on receptors in the vicinity of indirect sources. This implies that the principal, localized constraint on the siting of indirect sources will be the carbon monoxide generated on public roadways servicing those indirect sources. Clearly, adequate procedures must be developed to link such highway-type emissions to pollutant concentrations. An area-source model and a line-source model were tested using the data generated during the monitoring project. Favorable results were achieved using the line-source model. The proper siting of indirect sources involves the allocation of roadway capacity by the governmental units responsible for transportation network design, working in conjunction with regional planning bodies. A regulatory structure is suggested which emphasizes a regional approach, and an example of an air quality allocation scheme is given. The methodology is applicable to all automotive air pollutants although, in general, localized sensitivity is lost for N02 and photochemical oxi-dants. © 1975 Air & Waste Management Association.
+KW  - carbon monoxide
+KW  - air pollution
+KW  - environmental health
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Ratcliffe, J.M.
+TI  - An evaluation of the use of biological indicators in an atmospheric lead survey
+PY  - 1975
+T2  - Atmospheric Environment (1967)
+VL  - 9
+IS  - 6-7
+SP  - 623
+EP  - 629
+DO  - 10.1016/0004-6981(75)90006-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0016519256&doi=10.1016%2f0004-6981%2875%2990006-2&partnerID=40&md5=7b961f72576d22b925a6ce5f6492b21c
+AB  - Atmospheric lead deposition was monitored in the vicinity of a battery factory by an integrated survey of lead levels in indigenous moss and grass samples and by a short-term study of weekly increments in lead deposition at selected sites around the source using the mossbag technique. A highly significant correlation (coeff = 0.95) between the lead content in indigenous mosses and grass can be demonstrated, and the lead levels closely reflect the proximity to the source and the long-term wind pattern. The suspended mossbags adequately monitor the input to ground moss and grass given sufficient exposure time for slow accumulation rates. The spatial variation in mossbag lead content after one month correlates significantly with wind direction and speed and with calculated mean long-term ground level concentrations from stack emissions at each sit; however, only 40 per cent of the temporal (weekly) variation in lead accumulation in the mossbags can be explained by correlation with the wind direction and speed and rainfall at each site. © 1975.
+KW  - Air Pollutants
+KW  - Air Pollutants, Environmental
+KW  - Evaluation Studies
+KW  - Lead
+KW  - Plants
+KW  - Poaceae
+KW  - ATMOSPHERIC COMPOSITION
+KW  - ELECTRIC BATTERIES - Manufacture
+KW  - environmental health
+KW  - ATMOSPHERIC LEAD
+KW  - AIR POLLUTION
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 08 June 2023; Cited By: 30
+ER  -
+
